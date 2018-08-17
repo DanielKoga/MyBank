@@ -1,0 +1,16 @@
+{
+  "name": "mybank",
+  "version": "1.0.0",
+  "description": "Repositório criado para estudo de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.3.2"
+  }
+}
