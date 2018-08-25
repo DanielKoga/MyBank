@@ -9,7 +9,7 @@ System.register([], function (exports_1, context_1) {
                 constructor() {
                     this._negociacoes = [];
                 }
-                adiciona(negociacao) {
+                add(negociacao) {
                     this._negociacoes.push(negociacao);
                 }
                 toArray() {
